@@ -136,6 +136,7 @@ button:hover {
 }
 @media (min-width: 360px) and (max-width: 768px) {
   body {
-    background: url("../assets/images/mobile.jpg") no-repeat center center/cover;
+    margin-top: 60px;
+    background: url("../assets/images/mobile.jpg") repeat center center/cover;
   }
 }
